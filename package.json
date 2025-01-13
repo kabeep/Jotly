@@ -1,0 +1,14 @@
+{
+  "name": "jotly",
+  "description": "A cross-platform plan and note manager that employs AI technology to provide clear and actionable steps that facilitate goal-oriented progress.",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Zhang <zzx2067@outlook.com>",
+  "keywords": [],
+  "license": "MIT"
+}
